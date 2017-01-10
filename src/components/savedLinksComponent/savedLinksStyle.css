@@ -1,0 +1,53 @@
+.backgrSavedLinks{
+  background-image: url('../../../public/cake.jpg');
+  background-size: cover;
+  background-position: left top;
+  background-attachment: fixed;
+  opacity: 0.85;
+  min-height: 150vh;
+  padding-top: 30px;
+}
+.backgrSavedLinks a{
+  color: yellow;
+
+}
+.savedLinks{
+  background-image: linear-gradient(90deg, #262626, transparent);
+  max-width: 50%;
+  min-width: 50%;
+}
+/*.recipeList{
+  border-top: 3px solid magenta;
+  border-radius: 0px;
+  background-image: linear-gradient(180deg, #262626, transparent);
+  text-align: center;
+  z-index: 3;
+  margin: 50px;
+  max-width: 35%;
+  padding: 10px;
+}
+.recipeListCont{
+  padding: 10px 0px;
+}
+
+.recipeList a{
+  color: lime;
+  font-size: 2rem;
+  font-weight: bold;
+  margin:auto;
+  z-index: 4;
+}
+.recipeList a:hover{
+  text-decoration: none;
+  color: magenta;
+}
+a.recipeListLink{
+  color: lime;
+  font-size: 1.7rem;
+  margin:auto;
+  font-weight: 500;
+  z-index: 4;
+}
+a.recipeListLink:hover{
+  color: white;
+}*/

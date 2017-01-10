@@ -1,0 +1,18 @@
+form{
+
+}
+form li{
+  margin: 10px;
+  list-style: none;
+}
+.left{
+  float: left;
+  color: pink;
+}
+.right{
+  float: right;
+  color: lime;
+}
+.main_box_range{
+  min-height: 320px;
+}

@@ -1,0 +1,1 @@
+export { pokemonListComponent } from './pokemonListComponent';

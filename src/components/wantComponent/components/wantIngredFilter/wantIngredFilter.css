@@ -1,0 +1,22 @@
+.ingredBut{
+  flex: 1;
+  display: inline-block;
+  margin: 3px;
+  border: 2px solid white;
+  border-radius: 3px;
+  max-width: 55px;
+}
+.ingredBut:hover{
+  background-color: #595959;
+  border-color: #00ffff;
+  box-shadow: 0px 0px 3px 3px #00ffff;
+}
+.active{
+  background-color: mediumpurple;
+  border: 2px solid magenta;
+}
+.butContainer{
+  display: flex;
+  justify-content: space-around;
+  padding: 2px 15px;
+}

@@ -1,0 +1,18 @@
+button{
+  background-color: lime;
+  border-radius: 5px;
+  height: 30px;
+  font-size: 1.3rem;
+  margin-left: 50px;
+}
+button a{
+  color: black;
+  font-weight: bold;
+}
+button:hover{
+  background-color: mediumpurple;
+  color: white
+}
+button a:hover{
+  color: white;
+}

@@ -1,0 +1,27 @@
+.equalizeBut{
+  flex: 1;
+  background-color: black;
+  margin: 10px;
+  border: 2px solid pink;
+  border-radius: 3px;
+  color: white;
+  text-align: center;
+  min-width: 50px;
+  max-width: 150px;
+  height: 50px;
+}
+.equalizeBut:hover{
+  background-color: #595959;
+  border-color: #00ffff;
+  color: #00ffff;
+  box-shadow: 0px 0px 3px 3px #00ffff;
+}
+.active{
+  background-color: mediumpurple;
+  border: 2px solid magenta;
+}
+.equalizeButContainer{
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 15px;
+}

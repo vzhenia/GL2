@@ -1,0 +1,58 @@
+div.item span{
+  margin-left: 20%;
+}
+div.item span a{
+  color: lime;
+}
+#indexViewH{
+  text-shadow: 0px 0px 10px white;
+  font-weight: bold;
+}
+.carousel-inner .item{
+  max-height: 370px;
+  height: 370px;
+  max-width: 600px;
+  background-color: #595959;
+  padding: 15px;
+}
+.indexBtnLeft{
+  width: 135px;
+  height: 65px;
+  background-color: #595959;
+  border: 2px solid magenta;
+}
+.indexBtnLeft a{
+  margin-left: -10px;
+  margin-top: -12px;
+  color: pink;
+}
+.indexBtnLeft a:hover{
+  text-decoration: none;
+  color: black;
+}
+.indexBtnRight{
+  width: 135px;
+  height: 65px;
+  background-color: #595959;
+  border: 2px solid lime;
+}
+.indexBtnRight a{
+  margin-left: -10px;
+  margin-top: -12px;
+  color: lime;
+}
+.indexBtnRight a:hover{
+  text-decoration: none;
+  color: black;
+}
+.indexBtnLeft:hover{
+  box-shadow: 0px 0px 5px magenta;
+}
+.indexBtnRight:hover{
+  box-shadow: 0px 0px 5px lime;
+}
+.backgrIndex{
+  background-image: url('../../../public/sky.jpg');
+  background-size: cover;
+  height: 150vh;
+}

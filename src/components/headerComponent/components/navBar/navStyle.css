@@ -1,0 +1,38 @@
+.navbar{
+  border: none;
+  border-radius: 0px;
+}
+.navbar-header{
+  padding-left:10px;
+  background-color: #595959;
+}
+.smallButton{
+  width: 43px;
+  height: 43px;
+}
+.innerLink{
+  min-width: 70px;
+  height: 41px;
+  border-color: tan;
+  display: inline-block;
+  margin: 0;
+  border-radius: 5px;
+  background-color: #ffaa00;
+  font-weight: bold;
+  color: #595959;
+}
+.innerLink:hover{
+  background-color: #ffcc66;
+  text-shadow: 1px 1px 3px #ccff66;
+}
+.navbar-toggle{
+  padding-top:0;
+  padding-bottom:0;
+}
+.linksContainer{
+  border: none;
+  padding: 0;
+}
+.navDefault{
+  background-color: #595959;
+}

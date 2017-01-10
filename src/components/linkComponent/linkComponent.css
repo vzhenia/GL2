@@ -1,0 +1,17 @@
+.root{
+	margin: 10px;
+}
+.activeLink {
+	color: slategray;
+}
+.activeLink:hover{
+	color: magenta;
+}
+a {
+	color: #00ffff;
+	display: inline-block;
+	margin: 15px 5px 5px 5px;
+}
+a:hover {
+	color: white;
+}
